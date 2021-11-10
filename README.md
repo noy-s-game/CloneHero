@@ -11,4 +11,5 @@ Submission Patricipant: Noy Ohana</p>
 <ol>
 <li class="has-line-data" data-line-start="11" data-line-end="12">The Spawner spawns the random prefab under the editor given values (Lower\Upper Spawn Limit) and the spawner is given all the gameObjects (Colored Notes in our case that are needed)</li>
 <li class="has-line-data" data-line-start="12" data-line-end="13">In the right time when OnTrigger2D happends or collides and the right key is pressed (Z,X,C,V,B) for each colorthe note dissaper and the appropriate activator becomes black for editor pre-defined time.</li>
+  <li class="has-line-data" data-line-start="13" data-line-end="14">The Link on Itch.io for this game is: https://noyohana.itch.io/myclonehero.</li>
 </ol>
